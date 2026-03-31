@@ -31,6 +31,11 @@ h2 {
     line-height:39px;
 }
 
+.image{
+    margin-top: 43px;
+    margin-bottom: 37px;
+}
+
 @media (max-width: 800px) {
 /* Тут пиши стили для мобилки.
     Стили применятся только когда страничка будет ≤800px шириной
